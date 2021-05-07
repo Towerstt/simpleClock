@@ -24,7 +24,7 @@ let elephant = 'https://images.unsplash.com/photo-1505148230895-d9a785a555fa?ixi
 let abstract = 'https://images.unsplash.com/photo-1618556450994-a6a128ef0d9d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=659&q=80'
 let mountains = 'https://images.unsplash.com/photo-1619299805149-43ddccdc3430?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80'
 let sea = 'https://images.unsplash.com/photo-1619589690392-31f74fd21ac5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=376&q=80'
-let unset = 'https://images.unsplash.com/photo-1573765727997-e02883182ba7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=393&q=80'
+let unset = 'https://images.unsplash.com/photo-1611656993299-9f9d73232b9c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80'
 
 let select = document.querySelector('select')
 select.addEventListener('change', (e) => {
